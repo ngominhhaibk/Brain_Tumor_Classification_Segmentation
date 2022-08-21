@@ -1,4 +1,3 @@
-# Brain_Tumor_Classification_Segmentation
 Classify and segment brain tumor
 Tự động hóa việc phát hiện khối u não gồm 2 phần:
 - Classification: Chứa các mô hình CNN khác nhau và các mô hình transfer learning (EfficientNetB0, InceptionV3, ResNet50. VGG19)
